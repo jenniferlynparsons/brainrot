@@ -1,0 +1,10 @@
+{
+  "id": "brainrot",
+  "name": "Brainrot",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.0",
+  "description": "Track the fanfic living rent free in your head: AO3 details, your own rating tiers, rereads, podfic listens, Calibre imports, and a year-end Brainrot Wrapped.",
+  "author": "Jennifer Lyn Parsons",
+  "authorUrl": "https://github.com/jenniferlynparsons",
+  "isDesktopOnly": false
+}
